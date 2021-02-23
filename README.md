@@ -1,17 +1,11 @@
 ### Hi there 👋
+## I'm [Vineet](https://vineet2812.github.io)
+## Hi, I'm [Shreyash](https://prorooter007.github.io) 👋
+<a href="https://www.linkedin.com/in/vineet-pashine-016a82204/">
+  <img align="left" alt="My linkedIn" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" /> 
+</a>
+</br>
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet2812&style=flat" alt="vineet2812" /> </p>
 
-<!--
-**vineet2812/vineet2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=vineet2812)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently in undergraduate college.
